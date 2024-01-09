@@ -1,0 +1,17 @@
+***Prompt
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia.
+Focado em Banco de dados SQL e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast feito por nerds.
+Que tenha um trocadilho nerd no nome.
+
+O podcast vai falar sobre dicas e novidades sobre o mundo do SQL e o que esta acontecendo no mercado.
+
+{REGRAS}
+> O nome deve ser enxuto, um nome e um subtitulo
+> O nome deve ter um trocadilho nerd com nome de franquias conhecidas como Harry Potter, Senhor do Aneis e Star trek
+> O nome deve conter palavras fortes que remetam a SQL
+
+{REGRAS NEGATIVAS}
+> Não quero que o nome contenha palavras em inglês.
+> Não quero que utilize nenhum das palavras nessa lista: SQL, programador
+> Não utilize a palavra SQL no nome, nem qualquer variação dela.
+

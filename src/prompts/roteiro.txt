@@ -1,0 +1,31 @@
+*** O titulo escolhido
+Nerdcode: o Mundo SQL
+Deixe um legado imortal, criando consultas que resistem ao teste do tempo com a ajuda do nerdcode.
+
+#ROTEIRO EPISÓDIO 1
+
+**Introdução:**
+E aí, pessoal! Lucky Salamander aqui, o mestre do código, trazendo mais um episódio do nosso podcast de desenvolvimento.
+Hoje, vamos mergulhar no mundo fascinante do SQL, desbravando os segredos das SELECTs. 
+Então, ajustem seus fones e preparem-se para uma jornada de conhecimento!
+
+**Tópico 1: Entendendo o Básico das SELECTs**
+Vamos começar pelo fundamental. As SELECTs são a espinha dorsal do SQL, permitindo extrair dados de bancos. 
+Descubra como formular consultas simples para obter informações valiosas.
+
+**Tópico 2: Cláusulas WHERE e ORDER BY**
+Aprofundando-se, exploraremos a poderosa cláusula WHERE, que filtra dados conforme suas condições.
+Além disso, desvendaremos o ORDER BY para organizar resultados de maneira inteligente.
+
+**Tópico 3: Utilizando Funções Agregadas**
+Leve suas SELECTs para o próximo nível ao incorporar funções agregadas.
+Descubra como somar, contar, encontrar valores mínimos e máximos, proporcionando insights profundos em seus conjuntos de dados.
+
+**Tópico 4: Joins - Unindo Dados de Múltiplas Tabelas**
+Dê um salto quântico na sua habilidade SQL ao dominar os Joins. 
+Conecte dados de tabelas diferentes, desbloqueando um vasto leque de possibilidades para consultas complexas e análises detalhadas.
+
+**Conclusão:**
+E aí está, galera! Nosso mergulho nas SELECTs do SQL. 
+Espero que estejam animados para aplicar esses conhecimentos e elevar seus skills de desenvolvimento.
+Fiquem ligados para mais episódios repletos de dicas e truques para dominar o mundo do código.Fui!
